@@ -35,4 +35,5 @@ Em resumo, um pitch é a forma de apresentar, em poucos minutos, quem você é, 
 
 Modelos:
 
-- [QA]()
+- [QA](./modelos/qa.md)
+- [DEV](./modelos/dev.md)
